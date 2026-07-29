@@ -20,3 +20,21 @@
 # undefined  = no_data
 # symbol     = unique immutable value
 # bigint     = 
+------------------------------
+# if else else-if
+# switch case
+# early return pattern
+------------------------------
+# if else else-if
+# switch case
+#   #switch case == match case (from python)
+#   # switch(3){
+#       case 1:
+#       break;
+#       case 2:
+#       break;
+#       case 3:
+#       break;
+#       }
+# early return pattern
+#
