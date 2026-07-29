@@ -37,4 +37,9 @@
 #       break;
 #       }
 # early return pattern
-#
+#   # function name(){
+#    if("value1")return "result1";
+#    else if("value2")return "result2";
+#    else if("value3")return "result3";
+#    else return "result4";
+#   }
